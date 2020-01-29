@@ -1,0 +1,3 @@
+60001	Albert Einst	100
+60002	SirI New	80
+60003	Mich Fan	40
